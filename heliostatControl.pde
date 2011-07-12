@@ -2,7 +2,12 @@
  
   by Rodger Evans, 2010-11-11
   sunnycanuck@gmail.com
-  Published under the Creative Commons 'share a like" licence
+
+  Published under the Creative Commons Attribution-ShareAlike 2.5 Generic (CC BY-SA 2.5) licence
+  http://creativecommons.org/licenses/by-sa/2.5/
+
+  Publicado bajo la Licencia Creative Commons Atribución-CompartirIgual 2.5 México (CC BY-SA 2.5) 
+  http://creativecommons.org/licenses/by-sa/2.5/mx/
   
 */
 
